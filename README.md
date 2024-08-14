@@ -23,5 +23,6 @@
 - [ ] [MLIR](https://mlir.llvm.org/)
 - [ ] [LLVM](https://llvm.org/docs/)
 - [ ] TVM
+- [ ] [CIRCT]()
 - [ ] [Calyx](https://calyxir.org/)
 - [ ] [libisl](https://libisl.sourceforge.io/user.html)
