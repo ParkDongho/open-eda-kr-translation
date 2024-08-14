@@ -16,4 +16,5 @@
 ## Compiler
 - [ ] MLIR
 - [ ] LLVM
+- [ ] TVM
 - [ ] isl
