@@ -1,4 +1,4 @@
-# 오픈소스 EDA 한국어화 프로젝트
+# 오픈소스 EDA/IP 한국어화 프로젝트
 
 ## Tools
 - [ ] [Chisel](https://www.chisel-lang.org/docs) 
