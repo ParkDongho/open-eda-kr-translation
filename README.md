@@ -11,6 +11,7 @@
 - [ ] Boom
 - [ ] Constellation
 - [ ] Ibex
+- [ ] RISC-V Manual
 
 ## Compiler
 - [ ] MLIR
