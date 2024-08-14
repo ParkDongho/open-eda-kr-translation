@@ -16,7 +16,7 @@
 
 
 ## Standard
-- [ ] RISC-V ISA Standard
+- [ ] [RISC-V ISA Standard](https://github.com/riscv/riscv-isa-manual)
 - [ ] [TileLink Standard](https://www.sifive.com/document-file/tilelink-spec-1.9.3)
 
 ## Compiler
