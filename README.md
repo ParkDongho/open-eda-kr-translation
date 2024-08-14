@@ -16,8 +16,8 @@
 
 
 ## Standard
-- [ ] RISC-V Manual
-- [ ] TileLink Manual
+- [ ] RISC-V ISA Standard
+- [ ] TileLink Standard
 
 ## Compiler
 - [ ] MLIR
