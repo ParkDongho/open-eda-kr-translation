@@ -20,7 +20,8 @@
 - [ ] TileLink Standard
 
 ## Compiler
-- [ ] MLIR
-- [ ] LLVM
+- [ ] [MLIR](https://mlir.llvm.org/)
+- [ ] [LLVM](https://llvm.org/docs/)
 - [ ] TVM
-- [ ] isl
+- [ ] [Calyx](https://calyxir.org/)
+- [ ] [libisl](https://libisl.sourceforge.io/user.html)
