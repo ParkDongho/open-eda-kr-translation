@@ -29,3 +29,7 @@
 - [ ] [libisl](https://libisl.sourceforge.io/user.html)
 - [ ] [polybench]() [\(kr-v4.1\)](https://github.com/ParkDongho/polybench/tree/master/polybench-doc)
 - [ ] [polly]()
+
+
+## Books
+- [ ] [Digital Design with Chisel]()
