@@ -26,4 +26,4 @@
 - [ ] [CIRCT]()
 - [ ] [Calyx](https://calyxir.org/)
 - [ ] [libisl](https://libisl.sourceforge.io/user.html)
-- [ ] [polybench]() [\(v4.1\)](https://github.com/ParkDongho/polybench)
+- [ ] [polybench]() [\(v4.1\)](https://github.com/ParkDongho/polybench/tree/master/polybench-doc)
