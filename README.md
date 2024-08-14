@@ -17,7 +17,7 @@
 
 ## Standard
 - [ ] RISC-V ISA Standard
-- [ ] TileLink Standard
+- [ ] [TileLink Standard](https://www.sifive.com/document-file/tilelink-spec-1.9.3)
 
 ## Compiler
 - [ ] [MLIR](https://mlir.llvm.org/)
