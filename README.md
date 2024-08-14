@@ -6,6 +6,7 @@
 - [ ] Firesim
 - [ ] MLIR
 - [ ] LLVM
+- [ ] isl
 
 ## IP
 - [ ] Boom
