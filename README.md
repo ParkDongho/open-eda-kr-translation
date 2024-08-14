@@ -2,7 +2,7 @@
 
 ## Tools
 - [ ] Chisel 
-- [x] Chipyard [\(v1.12.2\)](https://github.com/ParkDongho/chipyard/blob/docs-kr-1.12.2/docs/index.rst)
+- [x] [Chipyard](https://chipyard.readthedocs.io/en/stable/index.html) [\(v1.12.2\)](https://github.com/ParkDongho/chipyard/blob/docs-kr-1.12.2/docs/index.rst)
 - [ ] Firesim
 - [ ] MLIR
 - [ ] LLVM
