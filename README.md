@@ -4,6 +4,7 @@
 - [ ] [Chisel](https://www.chisel-lang.org/docs) 
 - [x] [Chipyard](https://chipyard.readthedocs.io/en/latest/index.html) [\(kr-v1.12.2\)](https://github.com/ParkDongho/chipyard/blob/docs-kr-1.12.2/docs/index.rst)
 - [ ] [Firesim](https://docs.fires.im/en/latest/)
+- [ ] [Hammer](https://hammer-vlsi.readthedocs.io/en/latest/)
 - [ ] [DSAGEN](https://dsa-framework.readthedocs.io/en/latest/)
 - [ ] [AutoSA](https://autosa.readthedocs.io/en/latest/)
 
