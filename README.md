@@ -8,9 +8,9 @@
 
 ## IP
 - [ ] Rocket
-- [ ] Boom
-- [ ] Constellation
-- [ ] Ibex
+- [ ] [Boom](https://docs.boom-core.org/en/latest/)
+- [ ] [Constellation](https://constellation.readthedocs.io/en/latest/)
+- [ ] [Ibex](https://ibex-core.readthedocs.io/en/latest/)
 - [ ] RISC-V Manual
 
 ## Compiler
