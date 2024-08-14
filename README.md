@@ -1,0 +1,1 @@
+# open-eda-kr-translation
