@@ -12,7 +12,7 @@
 - [ ] [Constellation](https://constellation.readthedocs.io/en/latest/)
 - [ ] [Ibex](https://ibex-core.readthedocs.io/en/latest/)
 - [ ] [DSAGEN](https://dsa-framework.readthedocs.io/en/latest/)
-- [ ] [GEMMINI](https://github.com/ucb-bar/gemmini/blob/master/README.md)
+- [ ] [GEMMINI](https://github.com/ucb-bar/gemmini/blob/master/README.md) [\(v0.7.1\)](https://github.com/ParkDongho/gemmini/tree/docs-kr-0.7.1)
 
 
 ## Standard
