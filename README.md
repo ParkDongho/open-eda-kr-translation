@@ -2,7 +2,7 @@
 
 ## Tools
 - [ ] Chisel 
-- [x] Chipyard [kr \(v1.12.2\)](https://github.com/ParkDongho/chipyard/blob/docs-kr-1.12.2/docs/index.rst)
+- [x] Chipyard [\(v1.12.2\)](https://github.com/ParkDongho/chipyard/blob/docs-kr-1.12.2/docs/index.rst)
 - [ ] Firesim
 
 ## IP
