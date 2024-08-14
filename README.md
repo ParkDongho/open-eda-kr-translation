@@ -8,18 +8,19 @@
 - [ ] [DSAGEN](https://dsa-framework.readthedocs.io/en/latest/)
 - [ ] [AutoSA](https://autosa.readthedocs.io/en/latest/)
 
-
 ## IP
 - [ ] Rocket
 - [ ] [Boom](https://docs.boom-core.org/en/latest/)
 - [ ] [Constellation](https://constellation.readthedocs.io/en/latest/)
 - [ ] [Ibex](https://ibex-core.readthedocs.io/en/latest/)
 - [x] [GEMMINI](https://github.com/ucb-bar/gemmini/blob/master/README.md) [\(kr-v0.7.1\)](https://github.com/ParkDongho/gemmini/tree/docs-kr-0.7.1)
+- [ ] [ROCC Example](https://github.com/ParkDongho/rocket-rocc-examples)
 
 
 ## Standard
 - [ ] [RISC-V ISA Standard](https://github.com/riscv/riscv-isa-manual) [\(kr-v20240411-DRAFT\)](https://github.com/ParkDongho/riscv-isa-manual/tree/docs-kr-v20240411-DRAFT)
 - [ ] [TileLink Standard](https://www.sifive.com/document-file/tilelink-spec-1.9.3)
+
 
 ## Compiler
 - [ ] [MLIR](https://mlir.llvm.org/)
