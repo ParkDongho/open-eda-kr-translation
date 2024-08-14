@@ -11,6 +11,8 @@
 - [ ] [Boom](https://docs.boom-core.org/en/latest/)
 - [ ] [Constellation](https://constellation.readthedocs.io/en/latest/)
 - [ ] [Ibex](https://ibex-core.readthedocs.io/en/latest/)
+- [ ] [DSAGEN](https://dsa-framework.readthedocs.io/en/latest/)
+- [ ] [GEMMINI](https://github.com/ucb-bar/gemmini/blob/master/README.md)
 
 
 ## Standard
