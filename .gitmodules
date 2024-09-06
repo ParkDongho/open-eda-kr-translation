@@ -1,0 +1,6 @@
+[submodule "tools/chipyard"]
+	path = tools/chipyard
+	url = git@github.com:ParkDongho/chipyard.git
+[submodule "tools/firesim"]
+	path = tools/firesim
+	url = git@github.com:ParkDongho/firesim.git
